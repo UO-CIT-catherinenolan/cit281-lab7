@@ -1,0 +1,20 @@
+{
+  "name": "cit281-lab7",
+  "version": "1.0.0",
+  "description": "UO CIT 281 21S Lab 7",
+  "main": "lab-07.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://catherinenolan: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@github.com/UO-CIT-catherinenolan/cit281-lab7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UO-CIT-catherinenolan/cit281-lab7/issues"
+  },
+  "homepage": "https://github.com/UO-CIT-catherinenolan/cit281-lab7#readme"
+}
